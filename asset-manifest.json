@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/satty02/redux-shop.git/static/css/main.48c6dd5e.css",
+    "main.js": "/satty02/redux-shop.git/static/js/main.7ac73f19.js",
+    "index.html": "/satty02/redux-shop.git/index.html",
+    "main.48c6dd5e.css.map": "/satty02/redux-shop.git/static/css/main.48c6dd5e.css.map",
+    "main.7ac73f19.js.map": "/satty02/redux-shop.git/static/js/main.7ac73f19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48c6dd5e.css",
+    "static/js/main.7ac73f19.js"
+  ]
+}
